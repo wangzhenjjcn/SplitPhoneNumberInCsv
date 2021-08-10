@@ -2,10 +2,9 @@
 # -*- coding:utf-8 -*-
 import os
 import sys
-import json
 import re
 import tkinter.filedialog as tkFileDialog
-import time
+ 
 
 
 
